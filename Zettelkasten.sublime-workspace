@@ -1,0 +1,734 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"u",
+				"uint16_t"
+			],
+			[
+				"dist",
+				"distance"
+			],
+			[
+				"Po",
+				"PositionParticle"
+			],
+			[
+				"tim",
+				"timing"
+			],
+			[
+				"ne",
+				"next_turn"
+			],
+			[
+				"tm",
+				"tmp_x"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"dr",
+				"draw_cell"
+			],
+			[
+				"gl",
+				"global_y"
+			],
+			[
+				"fill",
+				"fillRect"
+			],
+			[
+				"cou",
+				"countField"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"fil",
+				"fillRect"
+			],
+			[
+				"l",
+				"len_x"
+			],
+			[
+				"ps",
+				"pos_y"
+			],
+			[
+				"pos",
+				"pos_y"
+			],
+			[
+				"po",
+				"pos_x"
+			],
+			[
+				"len",
+				"len_y"
+			],
+			[
+				"Le",
+				"len_x"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"tmp",
+				"tmpField"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"glo",
+				"global_x"
+			],
+			[
+				"ma",
+				"max_x"
+			],
+			[
+				"dra",
+				"draw_DataPoint"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"can",
+				"canvas_id"
+			],
+			[
+				"i",
+				"init"
+			],
+			[
+				"ca",
+				"canvas_id"
+			],
+			[
+				"propo",
+				"proposals"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"vi",
+				"views"
+			],
+			[
+				"re",
+				"render_to_response"
+			],
+			[
+				"pro",
+				"proposal"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"fol",
+				"focalLengthX"
+			],
+			[
+				"w",
+				"wunschbrunnen"
+			],
+			[
+				"all",
+				"all_proposals"
+			],
+			[
+				"al",
+				"all_proposals"
+			],
+			[
+				"prop",
+				"proposal"
+			],
+			[
+				"p",
+				"prop_id"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"exp",
+				"export"
+			],
+			[
+				"P",
+				"Peers"
+			],
+			[
+				"L",
+				"L"
+			],
+			[
+				"un",
+				"unlock"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"draw",
+				"draw_slashedLine"
+			],
+			[
+				"b",
+				"blank"
+			],
+			[
+				"o",
+				"out_values"
+			],
+			[
+				"blan",
+				"blank"
+			],
+			[
+				"f",
+				"filename"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"snipp",
+				"Snippet: Model"
+			],
+			[
+				"sn",
+				"Snippet: html"
+			],
+			[
+				"sy htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sni",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"syn D",
+				"Set Syntax: Python Django"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle",
+				"View: Toggle Minimap"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"togge",
+				"View: Toggle Side Bar"
+			],
+			[
+				"erlan",
+				"Set Syntax: Erlang"
+			],
+			[
+				"toggl",
+				"View: Toggle Minimap"
+			],
+			[
+				"oggle si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"b",
+				"Bookmarks: Select Next"
+			],
+			[
+				"toggle ta",
+				"View: Toggle Tabs"
+			],
+			[
+				"togg",
+				"Bookmarks: Toggle"
+			],
+			[
+				"syn C",
+				"Set Syntax: C"
+			],
+			[
+				"syn Py",
+				"Set Syntax: Python"
+			],
+			[
+				"Snippet: h",
+				"Snippet: html"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: HTML (ASP)"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 188.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/johannes/Projekte/Zettelkasten/Zettel/admin.py",
+		"/home/johannes/Projekte/Zettelkasten/Zettelkasten/urls.py",
+		"/home/johannes/Projekte/Zettelkasten/Zettelkasten/settings.py",
+		"/home/johannes/Projekte/Zettelkasten/Zettel/models.py",
+		"/home/johannes/Projekte/Zettelkasten/dummy.html",
+		"/home/johannes/Projekte/Zettelkasten/Zettel/views.py",
+		"/home/johannes/Projekte/Zettelkasten/Zettelkasten/__init__.py",
+		"/home/johannes/Projekte/Zettelkasten/manage.py",
+		"/home/johannes/Projekte/Zettelkasten/Zettelkasten.sublime-project",
+		"/home/johannes/Projekte/Zettelkasten/untitled.sublime-project",
+		"/home/johannes/Projekte/swp/src/modules/cognition/modeling/PFLocalization/positionEvaluatorHypotheses.cpp",
+		"/home/johannes/Projekte/swp/src/modules/cognition/modeling/PFLocalization/hypothesesCalculator.cpp",
+		"/home/johannes/Projekte/swp/src/modules/cognition/modeling/PFLocalization/positionParticle.h",
+		"/home/johannes/Projekte/swp/src/modules/cognition/modeling/PFLocalization/positionParticle.cpp",
+		"/home/johannes/Projekte/swp/src/modules/cognition/modeling/PFLocalization/localization.cpp",
+		"/home/johannes/Projekte/swp/src/modules/cognition/modeling/PFLocalization/particleFilter.cpp",
+		"/home/johannes/Projekte/swp/src/representations/imageprocessing/imageEdge.cpp",
+		"/home/johannes/Projekte/swp/src/modules/cognition/modeling/PFLocalization/positionEvaluatorSimple.cpp",
+		"/home/johannes/tmp/RemoteStack.java",
+		"/home/johannes/tmp/RemoteStackImpl.java",
+		"/home/johannes/tmp/aufgabe1_1.java",
+		"/home/johannes/tmp/aufgabe1_2.java",
+		"/home/johannes/Projekte/jVisual/main.html",
+		"/home/johannes/Projekte/jVisual/game_of_life.js",
+		"/home/johannes/Projekte/jVisual/draw.js",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/templates/main.html",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/proposal/models.py",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/proposal/views.py",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/proposal/admin.py",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/urls.py",
+		"/home/johannes/Projekte/Wunschbrunnen/extern/twitter-bootstrap-9f29785/docs/examples/fluid.html",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/templates/proposal/detail.html",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/templates/proposal/new_proposal.html",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/templates/proposal/proposals.html",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/templates/starter-template.html",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/templates/main2.html",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/static/js/jquery.js",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/static/style.css",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/settings.py",
+		"/home/johannes/Projekte/Wunschbrunnen/dummy/starter-template.html",
+		"/home/johannes/Projekte/Wunschbrunnen/extern/twitter-bootstrap-9f29785/docs/examples/starter-template.html",
+		"/home/johannes/Projekte/Wunschbrunnen/dummy/main.html",
+		"/home/johannes/Dropbox/UniTaet/ALP 5 - Netzprogrammierung/Übungen/Blatt 6/Aufgabe1.txt",
+		"/home/johannes/Projekte/SWP/fumanoid/src/representations/posture.h",
+		"/home/johannes/Projekte/SWP/fumanoid/src/tools/position.cpp",
+		"/home/johannes/Projekte/SWP/fumanoid/src/modules/cognition/CalculateHypothese.h",
+		"/home/johannes/Projekte/SWP/fumanoid/src/modules/cognition/CalculateHypothese.cpp",
+		"/home/johannes/Projekte/SWP/fumanoid/src/representations/camera/cameraMatrix.h",
+		"/home/johannes/Projekte/SWP/fumanoid/berlinunited/src/platform/system/transport/transport_tcp.cpp",
+		"/home/johannes/Projekte/SWP/fumanoid/berlinunited/src/ModuleFramework/ModuleCreator.h",
+		"/home/johannes/Projekte/SWP/fumanoid/berlinunited/src/platform/system/transport/transport_ftdi_d2xx.cpp",
+		"/home/johannes/Projekte/SWP/fumanoid/obj/PC/Debug/transport_ftdi_d2xx.d",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/templates/proposal/proposlas.html",
+		"/home/johannes/Projekte/Wunschbrunnen/wunschbrunnen/proposal/proposals.html",
+		"/home/johannes/Projekte/SWP/fumanoid/src/tools/position.h",
+		"/home/johannes/Projekte/SWP/fumanoid/src/representations/camera/cameraMatrix.cpp",
+		"/home/johannes/Projekte/SWP/fumanoid/src/representations/modeling/linePointMatches.h",
+		"/home/johannes/Projekte/SWP/fumanoid/src/modules/cognition/modeling/linePointMatching.cpp",
+		"/home/johannes/Projekte/SWP/fumanoid/berlinunited/src/platform/camera/camera.h",
+		"/home/johannes/Dropbox/UniTaet/ALP 5 - Netzprogrammierung/Übungen/Blatt 4/Aufgabe 2/Aufgabe 4.2.txt",
+		"/home/johannes/Dropbox/UniTaet/ALP 5 - Netzprogrammierung/Übungen/Blatt 4a/Aufgabab1_c.erl",
+		"/home/johannes/stuff.erl",
+		"/home/johannes/locking.erl",
+		"/home/johannes/Dropbox/UniTaet/ALP 5 - Netzprogrammierung/Übungen/Blatt 4a/Aufgabab1_b.txt",
+		"/home/johannes/Dropbox/UniTaet/ALP 5 - Netzprogrammierung/Übungen/Blatt 4a/Aufgabab1_a.txt",
+		"/home/johannes/Dropbox/toDo.txt",
+		"/home/johannes/Projekte/webnotizen/dummy/style.css",
+		"/home/johannes/Projekte/webnotizen/dummy/main.html",
+		"/home/johannes/Projekte/webnotizen/dummy/js/tinymce/examples/simple.html",
+		"/home/johannes/Projekte/SWP/fumanoid/bin/install_dependencies.sh",
+		"/home/johannes/Projekte/SWP/furemote/furemote-build/build.sh",
+		"/home/johannes/Projekte/webnotizen/notiz/models.py",
+		"/home/johannes/Projekte/webnotizen/webnotizen/settings.py",
+		"/home/johannes/Projekte/webnotizen/index.html",
+		"/home/johannes/Dropbox/Aufgabenzettel_1.txt",
+		"/home/johannes/Dropbox/schiffe.py",
+		"/home/johannes/Dropbox/parser.py",
+		"/home/johannes/Dropbox/testfile.txt",
+		"/home/johannes/Dropbox/Kohle.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n	",
+			"     ",
+			"    ",
+			"\n    title",
+			"    ",
+			"<br>",
+			"<br> ",
+			" <br> ",
+			":",
+			"input",
+			"30",
+			"150",
+			"width",
+			"30px",
+			"150px",
+			"text",
+			"type=\"text\">",
+			"= <",
+			"=",
+			"input",
+			"=",
+			"PositionParticle",
+			"new",
+			",",
+			"19",
+			",",
+			"€",
+			"pos_",
+			"Field",
+			"field",
+			"needyField",
+			"tmpField",
+			"x",
+			"tmpField",
+			"console",
+			"i",
+			"var",
+			"../assets/",
+			"bootstrap",
+			"bootstrap/",
+			"bootstrap",
+			"value",
+			"..",
+			"assets",
+			"STA",
+			"100",
+			"templa",
+			"poll",
+			"latest_poll_list",
+			"proposal",
+			"inverseTransformationMatrix",
+			"OnIma",
+			"projeOn",
+			"proje",
+			"offsetX",
+			"pr",
+			"project",
+			"projject",
+			"proj",
+			"PositionIm",
+			"Position Im",
+			"class PositionImage",
+			"PositionImage",
+			"transform*relative",
+			"abs",
+			"abs relativ",
+			"absoluteToRelative",
+			"Worker_Pid",
+			"P",
+			"Time",
+			"			\n",
+			"Time",
+			"{",
+			"From",
+			"recive",
+			"h2",
+			"test",
+			"x",
+			"in_values",
+			"True",
+			"values",
+			"test"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"dummy.html"
+			],
+			[
+				"imae",
+				"representations/imageprocessing/imageEdge.cpp"
+			],
+			[
+				"hy",
+				"modules/cognition/modeling/PFLocalization/hypothesesCalculator.cpp"
+			],
+			[
+				"postiopar",
+				"modules/cognition/modeling/PFLocalization/positionParticle.h"
+			],
+			[
+				"positpa",
+				"modules/cognition/modeling/PFLocalization/positionParticle.cpp"
+			],
+			[
+				"part",
+				"modules/cognition/modeling/PFLocalization/particleFilter.cpp"
+			],
+			[
+				"postione",
+				"modules/cognition/modeling/PFLocalization/positionEvaluatorHypotheses.cpp"
+			],
+			[
+				"evul",
+				"modules/cognition/modeling/PFLocalization/positionEvaluatorSimple.cpp"
+			],
+			[
+				"local",
+				"modules/cognition/modeling/PFLocalization/localization.cpp"
+			],
+			[
+				"main",
+				"templates/main.html"
+			],
+			[
+				"mo",
+				"proposal/models.py"
+			],
+			[
+				"url",
+				"urls.py"
+			],
+			[
+				"sett",
+				"settings.py"
+			],
+			[
+				"pos",
+				"src/representations/posture.h"
+			],
+			[
+				"position",
+				"src/tools/position.cpp"
+			],
+			[
+				"cam",
+				"src/representations/camera/cameraMatrix.h"
+			],
+			[
+				"calhy",
+				"src/modules/cognition/CalculateHypothese.h"
+			],
+			[
+				"modulecr",
+				"berlinunited/src/ModuleFramework/ModuleCreator.h"
+			],
+			[
+				"transprttcp",
+				"berlinunited/src/platform/system/transport/transport_tcp.cpp"
+			],
+			[
+				"hyp",
+				"src/modules/cognition/CalculateHypothese.cpp"
+			],
+			[
+				"calhyp",
+				"src/modules/cognition/CalculateHypothese.h"
+			],
+			[
+				"d2xx",
+				"berlinunited/src/platform/system/transport/transport_ftdi_d2xx.cpp"
+			],
+			[
+				"d2",
+				"obj/PC/Debug/transport_ftdi_d2xx.d"
+			],
+			[
+				"line",
+				"src/modules/cognition/modeling/linePointMatching.cpp"
+			],
+			[
+				"linepo",
+				"src/representations/modeling/linePointMatches.h"
+			],
+			[
+				"camermatr",
+				"src/representations/camera/cameraMatrix.h"
+			],
+			[
+				"camer",
+				"src/representations/camera/cameraMatrix.cpp"
+			],
+			[
+				"hypo",
+				"src/modules/cognition/CalculateHypothese.cpp"
+			],
+			[
+				"ma",
+				"/home/johannes/Projekte/webnotizen/dummy/main.html"
+			],
+			[
+				"s",
+				"/home/johannes/Projekte/webnotizen/dummy/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true
+}

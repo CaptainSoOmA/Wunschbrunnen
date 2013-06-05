@@ -1,0 +1,11 @@
+<h1>Einen neuen Zettel erstellen </h1>
+
+<form action="/new/" method="post">{% csrf_token %}
+	{{ form_zettel.as_p }}
+
+	<br>
+
+	{{ form_bib.as_p }}
+
+	<input type="submit" value="Submit" />
+</form>

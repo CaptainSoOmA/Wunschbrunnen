@@ -1,0 +1,15 @@
+<h1>die letzten Zettel</h1>
+
+{% if latest_zettel_list %}
+    <ul>
+    {% for zettel in latest_zettel_list %}
+        <li><a href="/zettel/{{ zettel.id }}/">{{ zettel.headline }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>keine Zettel da</p>
+{% endif %}
+
+<br>
+
+<a href="/new"> neuer Eintrag</a>
