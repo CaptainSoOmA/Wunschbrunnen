@@ -1,5 +1,5 @@
 # Create your views here.
-from Zettel.models import Zettel
+from Zettel.models import Zettel, BibInfo
 from Zettel.form import ZettelForm , BibInfoZettel 
 
 from datetime import datetime
@@ -15,20 +15,24 @@ def index(request):
 
 def new_zettel(request):
 	if request.method == 'POST': 
+
 		# falls Daten uebermittelt wurden
-		form_zettel = ZettelForm(request.POST)
-		form_bib = BibInfoZettel(request.POST) 
+		form_zettel = ZettelForm(request.POST, instance=Zettel())
+		form_bib = BibInfoZettel(request.POST, instance=BibInfo()) 
 
-
+		
 		if form_zettel.is_valid():
-
 			tmpZettel = form_zettel.save(commit=False)
 			tmpZettel.pub_date = datetime.now()
 
+			if form_bib.is_valid():
+				tmpZettel.save()
+				tmpBib = form_bib.save()
+				tmpZettel.bib.add(tmpBib)
 
 			tmpZettel.save()
 
-			return HttpResponseRedirect('/') # Redirect after POST
+		return HttpResponseRedirect('/') # Redirect after POST
 	else:
 		form_zettel = ZettelForm() # An unbound form
 		form_bib = BibInfoZettel()
